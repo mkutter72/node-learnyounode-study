@@ -1,0 +1,12 @@
+Update your version number now, and then `how-to-npm verify` to check it.
+
+~/WDI/labs/node-learnyounode-study/how-to-npm/dev_environ (master)$ ls
+README.md node_modules  npm-debug.log package.json  test.js
+~/WDI/labs/node-learnyounode-study/how-to-npm/dev_environ (master)$ subl package.json
+~/WDI/labs/node-learnyounode-study/how-to-npm/dev_environ (master)$ how-to-npm verify
+Great job!
+Run `how-to-npm` for the next exciting challenge!
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@     YOUR SOLUTION IS CORRECT!     @@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
